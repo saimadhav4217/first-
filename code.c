@@ -3,5 +3,5 @@
 void main()
 {
     int i;
-    printf("enter the vlaue you want is are something");
+    printf("enter the vlaue you want is are somethingjfkjsdjfkjsd");
 }
